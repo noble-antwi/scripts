@@ -31,12 +31,15 @@ Contributions are welcome! To contribute to this repository, follow these steps:
 4. **Document Your Script:** Ensure your script is well-documented with clear comments and instructions. Update the documentation as needed.
 5. **Submit a Pull Request:** Submit a pull request with a description of your changes and why they are valuable.
 
+.
 
 ## Contact
 
 For any questions or suggestions, please contact [Noble Antwi](mailto:amnworlanyo@gmail.com).
 
+## Example Scripts
 
+Here are a few examples of the types of scripts you might find in this repository:
 
 - **Python Scripts:**
   - Automation tasks
